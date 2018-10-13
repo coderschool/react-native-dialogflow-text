@@ -5,7 +5,11 @@
 [![Downloads](https://img.shields.io/npm/dt/react-native-dialogflow.svg)](https://www.npmjs.com/package/react-native-dialogflow)
 
 
-A React-Native Bridge for the Google Dialogflow AI SDK.
+A React-Native Bridge for the Google Dialogflow AI SDK. This readme needs to be udpated
+
+
+## ignore everything for now
+
 
 <img src="header_img.png" alt="Header Image"/>
 
